@@ -1,1 +1,1 @@
-[Trojan] _捷克 23 = trojan, t2.ssrsub.com, 8443, password=b2015918-4a70-4250-8afa-dba8a5be97f4, sni=t2.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇦🇺 _澳大利亚 38 = vmess, v10.ssrsub.com, 166, username=b2015918-4a70-4250-8afa-dba8a5be97f4, tls=true, tls13=false, ws=true, ws-path=/ssrsub, sni=v10.ssrsub.com, ws-headers=Host:v10.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
