@@ -1,4 +1,4 @@
-[SS] 🇦🇺 最后更新时间 2月21日14点 澳大利亚 137 = ss, 192.53.169.116, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
+最后更新时间 2月21日14点 = ss, 192.53.169.116, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
 [VMess] 亚太地区  10 = vmess, 0107hk.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=0107hk.fans8.xyz, ws-headers=Host:0107hk.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 亚太地区  40 = vmess, 128hk01.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=128hk01.fans8.xyz, ws-headers=Host:128hk01.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 广东省移动 16 = vmess, 101.wgong.xyz, 52201, username=08103798-414e-32b6-8748-2507732d2c51, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
