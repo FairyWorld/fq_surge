@@ -1,23 +1,15 @@
 [VMess] 🇦🇺 澳大利亚 123= vmess, v10.ssrsub.com, 166, username=739e53db-d41c-4bad-a61d-6cd5a173f85b, tls=true, ws=true, ws-path=/ssrsub, sni=v10.ssrsub.com, ws-headers=Host:v10.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇦🇺 澳大利亚  37 = vmess, v10.ssrsub.com, 166, username=b2015918-4a70-4250-8afa-dba8a5be97f4, tls=true, ws=true, ws-path=/ssrsub, sni=v10.ssrsub.com, ws-headers=Host:v10.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇦🇺 澳大利亚  56 = vmess, 202.61.141.130, 443, username=aba50dd4-5484-3b05-b14a-4661caf862d5, tls=true, ws=true, ws-path=/ws, sni=202.61.141.130, ws-headers=Host:202.61.141.130, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇦🇺 澳大利亚  59 = vmess, 45.76.127.189, 443, username=7fc6764a-6cba-4599-95d7-ac7617b7db0a, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇨🇦 加拿大  21 = vmess, 1207tw.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=1207tw.fans8.xyz, ws-headers=Host:1207tw.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇨🇦 加拿大  22 = vmess, 1211hk1.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=1211hk1.fans8.xyz, ws-headers=Host:1211hk1.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇨🇦 加拿大  25 = vmess, 128hk8.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=128hk8.fans8.xyz, ws-headers=Host:128hk8.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇨🇦 加拿大  6 = vmess, 1222us.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=1222us.fans8.xyz, ws-headers=Host:1222us.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇩🇪 德国  51 = vmess, 37.61.213.94, 443, username=97ff78ea-8807-4c33-93e5-d8481ac0539e, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇬🇧 英国  23 = vmess, 217.138.204.202, 443, username=fa1eff46-f454-42d9-b881-90a102d5521d, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇬🇧 英国  41 = vmess, v11.ssrsub.com, 166, username=739e53db-d41c-4bad-a61d-6cd5a173f85b, tls=true, ws=true, ws-path=/ssrsub, sni=v11.ssrsub.com, ws-headers=Host:v11.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇬🇧 英国  45 = vmess, v11.ssrsub.com, 166, username=b2015918-4a70-4250-8afa-dba8a5be97f4, tls=true, ws=true, ws-path=/ssrsub, sni=v11.ssrsub.com, ws-headers=Host:v11.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇭🇰 香港 14 = vmess, 115.wowogg.cyou, 52215, username=08103798-414e-32b6-8748-2507732d2c51, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇭🇰 香港 4 = vmess, 133.wgong.xyz, 52333, username=08103798-414e-32b6-8748-2507732d2c51, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇯🇵 日本  8 = vmess, 1031kr.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=1031kr.fans8.xyz, ws-headers=Host:1031kr.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇷🇺 俄罗斯  30 = vmess, 5.188.35.120, 443, username=0c7a06d0-8061-4df7-b521-960e2b9ce0f7, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇷🇺 俄罗斯20 = vmess, 92.223.72.42, 443, username=ae08412f-5bb9-4be7-8560-1984976a1097, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇺🇸 美国  26 = vmess, v6.ssrsub.com, 166, username=b2015918-4a70-4250-8afa-dba8a5be97f4, tls=true, ws=true, ws-path=/ssrsub, sni=v6.ssrsub.com, ws-headers=Host:v6.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [SS] 🇺🇸 美国  31 = ss, 172.99.190.188, 2376, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
-[SS] 🇺🇸 美国  32 = ss, 172.99.190.188, 2375, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
 [SS] 🇺🇸 美国  38 = ss, 172.99.190.149, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
 [SS] 🇺🇸 美国  52 = ss, 172.99.190.205, 5000, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
 [SS] 🇺🇸 美国  58 = ss, 172.99.190.205, 9101, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
@@ -34,7 +26,6 @@
 [Trojan] 🇨🇦 _加拿大 130 = trojan, t1.ssrsub.com, 8443, password=b2015918-4a70-4250-8afa-dba8a5be97f4, sni=t1.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇨🇦 _加拿大 142 = trojan, t3.ssrsub.com, 8443, password=739e53db-d41c-4bad-a61d-6cd5a173f85b, sni=t3.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇨🇦 _加拿大 144 = trojan, t3.ssrsub.com, 8443, password=b2015918-4a70-4250-8afa-dba8a5be97f4, sni=t3.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
-[SS] 🇨🇦 _加拿大 20 = ss, 134.195.196.193, 3306, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
 [SS] 🇨🇦 _加拿大 31 = ss, 134.195.196.200, 2375, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
 [SS] 🇨🇦 _加拿大 32 = ss, 134.195.196.200, 6697, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false, udp-relay=true
 [SS] 🇨🇦 _加拿大 33 = ss, 134.195.196.200, 6379, encrypt-method=aes-256-gcm, password=zDNVedRFPQexG9v, tfo=false, udp-relay=true
@@ -44,17 +35,14 @@
 [VMess] 🇩🇪 _德国 131 = vmess, 37.61.213.94, 443, username=97ff78ea-8807-4c33-93e5-d8481ac0539e, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [SS] 🇫🇷 _法国 11 = ss, 51.255.66.185, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
 [SS] 🇫🇷 _法国 135 = ss, 149.202.82.172, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
-[SS] 🇫🇷 _法国 138 = ss, 149.202.82.172, 5004, encrypt-method=aes-256-gcm, password=g5MeD6Ft3CWlJId, tfo=false, udp-relay=true
 [SS] 🇫🇷 _法国 25 = ss, 92.243.24.68, 443, encrypt-method=chacha20-ietf-poly1305, password=bIS3QQFwFIm1, tfo=false, udp-relay=true
 [SS] 🇫🇷 _法国 49 = ss, 149.202.82.172, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
 [SS] 🇫🇷 _法国 56 = ss, 149.202.82.172, 2376, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
 [SS] 🇫🇷 _法国 7 = ss, 149.202.82.172, 9102, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
 [SS] 🇬🇧 _英国 134 = ss, 172.99.190.205, 8000, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
-[SS] 🇬🇧 _英国 19 = ss, 172.99.190.188, 5600, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
 [SS] 🇬🇧 _英国 23 = ss, 172.99.190.205, 5500, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
 [SS] 🇬🇧 _英国 48 = ss, 172.99.190.188, 5000, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
 [SS] 🇬🇧 _英国 57 = ss, 172.99.190.149, 2375, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
-[VMess] 🇭🇰 _香港 80 = vmess, 133.wgong.xyz, 52333, username=08103798-414e-32b6-8748-2507732d2c51, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇭🇰 _香港 90 = vmess, 85.wgong.xyz, 52285, username=08103798-414e-32b6-8748-2507732d2c51, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇰🇷 _韩国 51 = trojan, hmykr1.tk, 443, password=998ec528-845f-4082-9e1b-26a642b26978, sni=hmykr1.tk, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇰🇷 _韩国 69 = vmess, chuna1.515223.xyz, 24793, username=58975106-dc46-4942-b79e-336da67f1bbd, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
@@ -64,7 +52,6 @@
 [Trojan] 🇸🇬 _新加坡 111 = trojan, 14.earths.team, 443, password=6a7eb779-3d05-4578-b95b-4c044096f9c5, sni=14.earths.team, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇸🇬 _新加坡 141 = trojan, 14.earths.team, 443, password=6593b778-e45e-4f94-b5ae-641d4b7b02ae, sni=14.earths.team, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇸🇬 _新加坡 82 = vmess, 0219sg.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=0219sg.fans8.xyz, ws-headers=Host:0219sg.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-[SS] 🇺🇸 _美国 12 = ss, 169.197.142.238, 8881, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
 [VMess] 🇺🇸 _美国 128 = vmess, v6.ssrsub.com, 166, username=b2015918-4a70-4250-8afa-dba8a5be97f4, tls=true, ws=true, ws-path=/ssrsub, sni=v6.ssrsub.com, ws-headers=Host:v6.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇺🇸 _美国 39 = vmess, fd.speedcar88.com, 61268, username=52b6103f-7b2a-4114-81bc-e325e46f494d, tls=true, ws=true, ws-path=/, sni=fd.speedcar88.com, ws-headers=Host:fd.speedcar88.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇺🇸 _美国 74 = vmess, v1.ssrsub.com, 443, username=739e53db-d41c-4bad-a61d-6cd5a173f85b, tls=true, ws=true, ws-path=/ssrsub, sni=v1.ssrsub.com, ws-headers=Host:v1.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
