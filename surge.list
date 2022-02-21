@@ -1,3 +1,13 @@
+[SS] 🇩🇪 德国-移动中转 下载= ss, yidong.latiao.cyou, 26805, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇩🇪 德国-联通中转 下载= ss, liantong.latiao.cyou, 26805, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇭🇰 香港-l联通中转 下载= ss, liantong.latiao.cyou, 26806, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇭🇰 香港-移动中转 下载 = ss, yidong.latiao.cyou, 26806, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇰🇷 韩国-移动中转 下载= ss, yidong.latiao.cyou, 26803, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇰🇷 韩国-联通中转 下载= ss, liantong.latiao.cyou, 26803, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇸🇬 新加坡- 移动中转 下载= ss, yidong.latiao.cyou, 26802, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇸🇬 新加坡-联通中转 下载= ss, liantong.latiao.cyou, 26802, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇺🇸 美国-移动中转 Apple = ss, yidong.latiao.cyou, 26804, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
+[SS] 🇺🇸 美国-联通中转 Apple = ss, liantong.latiao.cyou, 26804, encrypt-method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, tfo=false, udp-relay=true
 [Trojan]  捷克 23 = trojan, t2.ssrsub.com, 8443, password=b2015918-4a70-4250-8afa-dba8a5be97f4, sni=t2.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan]  捷克 43 = trojan, t7.ssrsub.com, 8443, password=b2015918-4a70-4250-8afa-dba8a5be97f4, sni=t7.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess]  波兰 9 = vmess, 0122us.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=0122us.fans8.xyz, ws-headers=Host:0122us.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
