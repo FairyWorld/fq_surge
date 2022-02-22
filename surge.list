@@ -1,40 +1,32 @@
-[SS] 🇨🇦 加拿大多端口103 = ss, 134.195.196.147, 8008, encrypt-method=aes-256-gcm, password=XKFKl2rULjIp74, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口104 = ss, 134.195.196.193, 7307, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
+[VMess] 🇭🇰 TRANSIT HKG 01 @100MBPS = vmess, 101.230.149.27, 1111, username=aa8c0fbe-e2ba-4850-8cb1-fe779fa46bd4, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇭🇰 TRANSIT HKG 02 @100MBPS = vmess, 101.230.149.27, 1112, username=aa8c0fbe-e2ba-4850-8cb1-fe779fa46bd4, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇭🇰 TRANSIT HKG 03 @100MBPS = vmess, 101.230.149.27, 1113, username=aa8c0fbe-e2ba-4850-8cb1-fe779fa46bd4, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[SS] 🇭🇰 香港1 = ss, centralchina1.cloudlink123.com, 37005, encrypt-method=aes-128-gcm, password=2e1dfa1e-ed81-4de7-bca6-64eb22b52ef6, tfo=false, udp-relay=true
+[SS] 🇯🇵 东京2 = ss, centralchina1.cloudlink123.com, 37002, encrypt-method=aes-128-gcm, password=2e1dfa1e-ed81-4de7-bca6-64eb22b52ef6, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口112 = ss, 134.195.196.200, 6679, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口113 = ss, 134.195.196.200, 5003, encrypt-method=aes-256-gcm, password=g5MeD6Ft3CWlJId, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口114 = ss, 134.195.196.200, 7001, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口118 = ss, 134.195.196.147, 5000, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
-[Trojan] 🇨🇦 加拿大多端口125 = trojan, t4.ssrsub.com, 8443, password=b2015918-4a70-4250-8afa-dba8a5be97f4, sni=t4.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
+[SS] 1 = ss, 122.9.62.57, 1001, encrypt-method=chacha20-ietf-poly1305, password=d448c5c3968140fcd5470e035d443c502faa163363b313e01bcbb2c024d2a510, tfo=false, udp-relay=true
+[SS] 2 = ss, 122.9.62.60, 1003, encrypt-method=chacha20-ietf-poly1305, password=8eff2ae2afb4d6cbc95dd8006cbadb3ed4077dc878b511edce084361d30b263a, tfo=false, udp-relay=true
+[VMess] 3 = vmess, c4jrauwu5v.eastasia.cloudapp.azure.com, 27795, username=f752d5b8-a497-4d5b-9015-d83d584cb21c, tls=false, ws=true, ws-path=/, sni=c4jrauwu5v.eastasia.cloudapp.azure.com, ws-headers=Host:c4jrauwu5v.eastasia.cloudapp.azure.com, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 4 = vmess, c4jrauwu5v.eastasia.cloudapp.azure.com, 60844, username=f752d5b8-a497-4d5b-9015-d83d584cb21c, tls=false, ws=true, ws-path=/, sni=c4jrauwu5v.eastasia.cloudapp.azure.com, ws-headers=Host:c4jrauwu5v.eastasia.cloudapp.azure.com, skip-cert-verify=false, tfo=false, udp-relay=true
+[SS] 5 = ss, 16.163.148.47, 38957, encrypt-method=aes-256-gcm, password=f752d5b8-a497-4d5b-9015-d83d584cb21c, tfo=false, udp-relay=true
+[VMess] 6 = vmess, c4jrauwu5v.eastasia.cloudapp.azure.com, 54975, username=f752d5b8-a497-4d5b-9015-d83d584cb21c, tls=false, ws=true, ws-path=/, sni=c4jrauwu5v.eastasia.cloudapp.azure.com, ws-headers=Host:c4jrauwu5v.eastasia.cloudapp.azure.com, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 7 = vmess, c4jrauwu5v.eastasia.cloudapp.azure.com, 44171, username=f752d5b8-a497-4d5b-9015-d83d584cb21c, tls=false, ws=true, ws-path=/, sni=c4jrauwu5v.eastasia.cloudapp.azure.com, ws-headers=Host:c4jrauwu5v.eastasia.cloudapp.azure.com, skip-cert-verify=false, tfo=false, udp-relay=true
+[SS] 8 = ss, 122.9.62.9, 7931, encrypt-method=chacha20-ietf-poly1305, password=bbea04c91913a27ab1c04f3aedc2a74e1e47c876898738d7f79938fd20c13b5e, tfo=false, udp-relay=true
+[SS] 9 = ss, 122.9.62.45, 1028, encrypt-method=chacha20-ietf-poly1305, password=958c6e082af39b451e1656b87660a363c89071a21d5a768b12e564d1dbe3e96e, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口19 = ss, 134.195.196.200, 5500, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口21 = ss, 134.195.196.147, 5500, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
 [Trojan] 🇨🇦 加拿大多端口23 = trojan, t4.ssrsub.com, 8443, password=739e53db-d41c-4bad-a61d-6cd5a173f85b, sni=t4.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口26 = ss, 198.57.27.172, 9102, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口28 = ss, 198.57.27.172, 9101, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
 [Trojan] 🇨🇦 加拿大多端口31 = trojan, t1.ssrsub.com, 8443, password=739e53db-d41c-4bad-a61d-6cd5a173f85b, sni=t1.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口32 = ss, 134.195.196.147, 5601, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口34 = ss, 134.195.196.193, 9101, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口36 = ss, 134.195.196.147, 8091, encrypt-method=aes-256-gcm, password=PCnnH6SQSnfoS27, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口37 = ss, 134.195.196.147, 2375, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口39 = ss, 134.195.196.193, 8000, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口41 = ss, 134.195.196.193, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口42 = ss, 134.195.196.193, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口45 = ss, 134.195.196.193, 5000, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口48 = ss, 198.57.27.172, 3306, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口5 = ss, 134.195.196.147, 8118, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口6 = ss, 134.195.196.147, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口63 = ss, 134.195.196.200, 5600, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口65 = ss, 134.195.196.147, 3306, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口66 = ss, 134.195.196.147, 7307, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口67 = ss, 134.195.196.200, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口70 = ss, 134.195.196.217, 443, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口80 = ss, 198.57.27.172, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口81 = ss, 198.57.27.172, 8882, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口82 = ss, 198.57.27.172, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口92 = ss, 134.195.196.193, 8118, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口93 = ss, 134.195.196.193, 9102, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
-[SS] 🇨🇦 加拿大多端口96 = ss, 134.195.196.147, 5003, encrypt-method=aes-256-gcm, password=g5MeD6Ft3CWlJId, tfo=false, udp-relay=true
-[VMess] 🇭🇰 TRANSIT HKG 01 @100MBPS = vmess, 101.230.149.27, 1111, username=aa8c0fbe-e2ba-4850-8cb1-fe779fa46bd4, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇭🇰 TRANSIT HKG 02 @100MBPS = vmess, 101.230.149.27, 1112, username=aa8c0fbe-e2ba-4850-8cb1-fe779fa46bd4, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇭🇰 TRANSIT HKG 03 @100MBPS = vmess, 101.230.149.27, 1113, username=aa8c0fbe-e2ba-4850-8cb1-fe779fa46bd4, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
-[SS] 🇭🇰 香港112 = ss, centralchina1.cloudlink123.com, 37005, encrypt-method=aes-128-gcm, password=2e1dfa1e-ed81-4de7-bca6-64eb22b52ef6, tfo=false, udp-relay=true
-[SS] 🇯🇵 东京21 = ss, centralchina1.cloudlink123.com, 37002, encrypt-method=aes-128-gcm, password=2e1dfa1e-ed81-4de7-bca6-64eb22b52ef6, tfo=false, udp-relay=true
