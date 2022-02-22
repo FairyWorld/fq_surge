@@ -1,6 +1,8 @@
 # surge
 surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
 
+配置托管：
+
 添加链接到surge策略组-填入“外部代理集”里就行
 
 ## 节点已备注用途，可以用正则表达式过滤：
@@ -9,3 +11,6 @@ surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
 ^((?!A).)*$或^(?!A).*   节点名不含有 A 
 (?!.*(A)).*(B)         节点名不含有 A，同时含有 B
 ^(?!(.*(A|B).*))      节点名既不含有 A又不含有 B
+
+### 更新频率
+每天不定期更新，为了保证高可用性会定期吧ping不通的节点剔除，避免过多节点导致性能下降。
