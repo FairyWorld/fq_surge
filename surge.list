@@ -1,4 +1,4 @@
-[Trojan] 大马01|合肥|×1.0 = trojan, ah.mimon.cc, 65114, password=cdc33926-a089-4dae-86a0-2b9c76e58f20, sni=mmy1.shanjun.me, skip-cert-verify=false, tfo=false, udp-relay=true
+[SS] 🇰🇷 韩国11 超快 = ss, 13.124.30.68, 52783, encrypt-method=chacha20-ietf-poly1305, password=0eee7abb-23db-405a-9a97-720fdc01633f, tfo=false, udp-relay=true
 [Trojan] 🇨🇳 台湾01|广州|×1.0 = trojan, gz3.shanjun.me, 44601, password=cdc33926-a089-4dae-86a0-2b9c76e58f20, sni=mtw1.shanjun.me, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇨🇳 台湾02|南昌|×1.0 = trojan, jx.mimon.cc, 56000, password=cdc33926-a089-4dae-86a0-2b9c76e58f20, sni=mtw1.shanjun.me, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇨🇳 台湾03|长沙|×1.0 = trojan, cs.mimon.cc, 57186, password=cdc33926-a089-4dae-86a0-2b9c76e58f20, sni=mtw2.shanjun.me, skip-cert-verify=false, tfo=false, udp-relay=true
@@ -41,9 +41,6 @@
 [Trojan] 🇺🇸 美国04|长沙|×1.0 = trojan, cs.mimon.cc, 50944, password=cdc33926-a089-4dae-86a0-2b9c76e58f20, sni=mus4.shanjun.me, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇺🇸 美国05|广州|×1.0 = trojan, gz.mimon.cc, 20563, password=cdc33926-a089-4dae-86a0-2b9c76e58f20, sni=mus4.shanjun.me, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇺🇸 美国06|直连|×0.1 = trojan, 204.44.75.162, 443, password=cdc33926-a089-4dae-86a0-2b9c76e58f20, sni=fmus1.shanjun.me, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇦🇺 澳大利亚 123= vmess, v10.ssrsub.com, 166, username=739e53db-d41c-4bad-a61d-6cd5a173f85b, tls=true, ws=true, ws-path=/ssrsub, sni=v10.ssrsub.com, ws-headers=Host:v10.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇦🇺 澳大利亚  37 = vmess, v10.ssrsub.com, 166, username=b2015918-4a70-4250-8afa-dba8a5be97f4, tls=true, ws=true, ws-path=/ssrsub, sni=v10.ssrsub.com, ws-headers=Host:v10.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
-[VMess] 🇨🇦 加拿大  22 = vmess, 1211hk1.fans8.xyz, 80, username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c, tls=false, ws=true, ws-path=/v2ray, sni=1211hk1.fans8.xyz, ws-headers=Host:1211hk1.fans8.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇩🇪 德国  51 = vmess, 37.61.213.94, 443, username=97ff78ea-8807-4c33-93e5-d8481ac0539e, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇭🇰 香港 14 = vmess, 115.wowogg.cyou, 52215, username=08103798-414e-32b6-8748-2507732d2c51, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
 [VMess] 🇷🇺 俄罗斯20 = vmess, 92.223.72.42, 443, username=ae08412f-5bb9-4be7-8560-1984976a1097, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
@@ -57,7 +54,6 @@
 [SS] 🇮🇩 Indonesia-A1 = ss, 108.136.163.50, 58973, encrypt-method=chacha20-ietf-poly1305, password=0eee7abb-23db-405a-9a97-720fdc01633f, tfo=false, udp-relay=true
 [SS] 🇯🇵 Japan-A2 = ss, 18.183.255.104, 14541, encrypt-method=aes-256-gcm, password=0eee7abb-23db-405a-9a97-720fdc01633f, tfo=false, udp-relay=true
 [SS] 🇯🇵 东京21 = ss, centralchina1.cloudlink123.com, 37002, encrypt-method=aes-128-gcm, password=2e1dfa1e-ed81-4de7-bca6-64eb22b52ef6, tfo=false, udp-relay=true
-[SS] 🇰🇷 韩国11 超快 = ss, 13.124.30.68, 52783, encrypt-method=chacha20-ietf-poly1305, password=0eee7abb-23db-405a-9a97-720fdc01633f, tfo=false, udp-relay=true
 [Trojan] 🇨🇦 _加拿大 142 = trojan, t3.ssrsub.com, 8443, password=739e53db-d41c-4bad-a61d-6cd5a173f85b, sni=t3.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [Trojan] 🇨🇦 _加拿大 144 = trojan, t3.ssrsub.com, 8443, password=b2015918-4a70-4250-8afa-dba8a5be97f4, sni=t3.ssrsub.com, skip-cert-verify=false, tfo=false, udp-relay=true
 [SS] 🇨🇦 _加拿大 32 = ss, 134.195.196.200, 6697, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false, udp-relay=true
