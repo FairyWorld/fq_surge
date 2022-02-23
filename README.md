@@ -1,7 +1,7 @@
 # surge
 surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
 
-配置托管：
+配置托管：https://github.com/temppw/surge/raw/main/surge.conf
 
 添加链接到surge策略组-填入“外部代理集”里就行
 
@@ -17,6 +17,7 @@ surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
 
 ### 节点源
 https://github.com/v2raydy/v2ray
+
 https://raw.githubusercontent.com/Jsnzkpg
 
 为保证节点标识简洁，对大部分名称进行了重写。
