@@ -5,6 +5,12 @@ surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
 配置托管：https://github.com/temppw/surge/raw/main/surge.conf
 
 添加链接到surge策略组-填入“外部代理集”里就行
+### 订阅转换
+list节点里加了一些参数，转换的时候不需要额外加参数了，例如emoji国旗。
+
+转换后的链接：
+
+clash：https://suo.yt/T4fbDrW
 
 ## 节点已备注用途，可以用正则表达式过滤：
 (A).*(B)             节点名既有 A又有 B 
