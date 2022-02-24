@@ -27,7 +27,6 @@ clash（澳大利亚）：https://suo.yt/T4fbDrW
 每天不定期更新，为了保证高可用性会定期吧ping不通的节点剔除，避免过多节点导致性能下降。
 
 ### 节点源
-https://github.com/v2raydy/v2ray
 
 https://raw.githubusercontent.com/Jsnzkpg
 
