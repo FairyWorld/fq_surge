@@ -1,3 +1,8 @@
+[VMess] 🇭🇰 香港 05 = vmess, www.shanpao.xyz, 32747, username=c460ff8a-c55e-4c7c-d556-356b758af32b, tls=true, ws=true, ws-path=/pank, sni=www.shanpao.xyz, ws-headers=Host:www.shanpao.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇭🇰 AZ香港①-10Gbps = vmess, hk1.otwc-node.cc, 81, username=42f2aa47-95f9-4a36-b490-db73749cf078, tls=false, ws=true, ws-path=/, sni=hk1.otwc-node.cc, ws-headers=Host:hk1.otwc-node.cc, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇭🇰 AZ香港②-10Gbps = vmess, hk2.otwc-node.cc, 82, username=42f2aa47-95f9-4a36-b490-db73749cf078, tls=false, ws=true, ws-path=/, sni=hk2.otwc-node.cc, ws-headers=Host:hk2.otwc-node.cc, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇭🇰 AZ香港③-10Gbps = vmess, hk3.otwc-node.cc, 83, username=42f2aa47-95f9-4a36-b490-db73749cf078, tls=false, ws=true, ws-path=/, sni=hk3.otwc-node.cc, ws-headers=Host:hk3.otwc-node.cc, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇭🇰 AZ香港④-10Gbps = vmess, hk4.otwc-node.cc, 84, username=42f2aa47-95f9-4a36-b490-db73749cf078, tls=false, ws=true, ws-path=/, sni=hk4.otwc-node.cc, ws-headers=Host:hk4.otwc-node.cc, skip-cert-verify=false, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口112 = ss, 134.195.196.200, 6679, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口114 = ss, 134.195.196.200, 7001, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口19 = ss, 134.195.196.200, 5500, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
@@ -14,4 +19,3 @@
 [SS] 🇨🇦 加拿大多端口67 = ss, 134.195.196.200, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口70 = ss, 134.195.196.217, 443, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
 [SS] 🇨🇦 加拿大多端口92 = ss, 134.195.196.193, 8118, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
-[SS] 橙汁 = ss, 77710086.xyz, 777, encrypt-method=chacha20-ietf-poly1305, password=887b9ece-45e8-45a1-844c-6991e2b086a8, tfo=false, udp-relay=true
