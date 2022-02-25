@@ -1,0 +1,9 @@
+[VMess] 🇨🇳 回国 01 = vmess, 47.113.190.48, 47972, username=d1f1e8e0-bf5c-4219-8ba4-48de32c50557, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 回国 02 = vmess, 42.193.48.64, 50002, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 回国 03 = vmess, 39.100.131.118, 44766, username=c244b0e1-57d9-4bfe-9de4-9315298e6fdf, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 回国 04 = vmess, 39.96.73.137, 56383, username=7ec291c7-0c15-44e5-ae6d-c9003ee9acca, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 回国 05 = vmess, 39.100.131.118, 44766, username=c244b0e1-57d9-4bfe-9de4-9315298e6fdf, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 回国 06 = vmess, 47.108.64.10, 52333, username=62d95751-acbd-4915-bc7d-3c5cb1c8796c, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 回国 07 = vmess, 47.113.190.48, 47972, username=d1f1e8e0-bf5c-4219-8ba4-48de32c50557, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 回国 08 = vmess, 119.45.129.131, 32110, username=3d14fe18-b7c6-4a26-812a-9999ae70ced2, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 回国 09 = vmess, 39.96.73.137, 56383, username=7ec291c7-0c15-44e5-ae6d-c9003ee9acca, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
