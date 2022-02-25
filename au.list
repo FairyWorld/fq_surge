@@ -1,3 +1,14 @@
-[SS] 🇦🇺 澳大利亚01 = ss, 192.53.169.116, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
-[SS] 🇦🇺 澳大利亚02 = ss, 192.53.169.116, 2376, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
-[VMess] 🇦🇺 澳大利亚03 = vmess, 45.76.127.189, 443, username=7fc6764a-6cba-4599-95d7-ac7617b7db0a, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 12 = ss, 192.53.169.116, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 13 = ss, 192.53.169.116, 2376, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
+[VMess] 🇦🇺 澳大利亚 14 = vmess, 45.76.127.189, 443, username=7fc6764a-6cba-4599-95d7-ac7617b7db0a, tls=true, ws=true, ws-path=/ray, sni=govacaxixo.watchdoctor.xyz, ws-headers=Host:govacaxixo.watchdoctor.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 01 = ss, 172.105.162.49, 9101, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 02 = ss, 172.105.162.49, 2376, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 03 = ss, 172.105.162.49, 7307, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 04 = ss, 172.105.162.49, 5001, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 05 = ss, 172.105.162.49, 5600, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 06 = ss, 172.105.162.49, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 07 = ss, 172.105.162.49, 2375, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
+[SS] 🇦🇺 澳大利亚 08 = ss, 172.105.162.49, 9102, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
+[VMess] 🇦🇺 澳大利亚 09 = vmess, 43.129.193.41, 59535, username=2fb9a8e8-8ee0-47e4-cfe1-cac3ea4e4245, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇦🇺 澳大利亚 10 = vmess, 43.129.193.41, 25630, username=4512dbb2-c1cc-4d93-d362-38d7829b6758, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇦🇺 澳大利亚 11 = vmess, 43.154.113.246, 26458, username=58d07d4b-5147-4501-9c79-73112f5816cb, tls=false, ws=true, ws-path=/, sni=43.154.113.246, ws-headers=Host:43.154.113.246, skip-cert-verify=false, tfo=false, udp-relay=true
