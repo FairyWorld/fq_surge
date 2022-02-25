@@ -1,0 +1,5 @@
+[VMess] 🇨🇳 台湾 161 = vmess, tw-sd-v1-03.xyx-xylo.com, 11180, username=3fbabc64-6e0f-370c-8c0e-b0d95b1cfe92, tls=false, ws=true, ws-path=/, sni=tw-sd-v1-03.xyx-xylo.com, ws-headers=Host:tw-sd-v1-03.xyx-xylo.com, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 台湾 162 = vmess, tw003.dynu.net, 28181, username=3fbabc64-6e0f-370c-8c0e-b0d95b1cfe92, tls=false, ws=true, ws-path=/, sni=tw003.dynu.net, ws-headers=Host:tw003.dynu.net, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 台湾 163 = vmess, tw-sd-v1-01.xyx-xylo.com, 11180, username=3fbabc64-6e0f-370c-8c0e-b0d95b1cfe92, tls=false, ws=true, ws-path=/, sni=tw-sd-v1-01.xyx-xylo.com, ws-headers=Host:tw-sd-v1-01.xyx-xylo.com, skip-cert-verify=false, tfo=false, udp-relay=true
+[VMess] 🇨🇳 台湾 164 = vmess, tw001.dynu.net, 28081, username=3fbabc64-6e0f-370c-8c0e-b0d95b1cfe92, tls=false, ws=true, ws-path=/, sni=tw001.dynu.net, ws-headers=Host:tw001.dynu.net, skip-cert-verify=false, tfo=false, udp-relay=true
+[Trojan] 🇨🇳 台湾 165 = trojan, tw.tcpbbr.net, 443, password=b155c2a4-ee79-11eb-a8bf-f23c91cfbbc9, skip-cert-verify=false, tfo=false, udp-relay=true
