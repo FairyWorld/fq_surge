@@ -4,6 +4,8 @@ surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
 
 配置托管：https://github.com/temppw/surge/raw/main/surge.conf
 
+可自定义修改的配置：https://github.com/temppw/surge/raw/main/me.conf
+
 添加链接到surge策略组-填入“外部代理集”里就行
 ### 订阅转换
 
