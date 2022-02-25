@@ -6,11 +6,11 @@ surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
 
 添加链接到surge策略组-填入“外部代理集”里就行
 ### 订阅转换
-list节点里加了一些参数，转换的时候不需要额外加参数了，例如emoji国旗。
 
-转换后的链接：
+#### 已经转换后可以直接使用的订阅链接
 
 clash（澳大利亚）：https://suo.yt/T4fbDrW
+surge list（白嫖节点，一天更新一次）：https://gist.github.com/temppw/786e6efe956a0361a9191375b3228992
 
 ## 节点正则表达式过滤：
 (A).*(B)             节点名既有 A又有 B 
