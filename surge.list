@@ -1,66 +1,23 @@
-🇨🇦 加拿大 01=vmess,0218kr02.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0218kr02.fans8.xyz"
-🇨🇦 加拿大 02=vmess,1222mnl.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"1222mnl.fans8.xyz"
-🇨🇦 加拿大 03=vmess,1211hk1.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"1211hk1.fans8.xyz"
-🇨🇳 中国 12=vmess,cmi.db-link.in,21154,username=3e2241ef-9b8a-34f4-be7d-3fe6615bfba3,tls=false,tfo=false,ws=true,ws-path=/db,ws-headers=Host:"us01.db-link.in"
-🇨🇳 中国 13=vmess,cmi.db-link.in,21152,username=3e2241ef-9b8a-34f4-be7d-3fe6615bfba3,tls=false,tfo=false,ws=true,ws-path=/db,ws-headers=Host:"us01.db-link.in"
-🇨🇳 中国 14=vmess,cmi.db-link.in,21153,username=3e2241ef-9b8a-34f4-be7d-3fe6615bfba3,tls=false,tfo=false,ws=true,ws-path=/db,ws-headers=Host:"us01.db-link.in"
-🇨🇳 中国 15=vmess,china-gzyd-1.forwardserver.xyz,36018,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"china-gzyd-1.forwardserver.xyz"
-🇩🇪 NJ/US - 2 [LINODE][DIRECT]=trojan,173.255.225.7,11416,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇩🇪 SIN/SG - 1 [LINODE][TRANSIT]=trojan,china-zj-hz-1.forwardserver.xyz,43841,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇩🇪 SIN/SG - 2 [LINODE][DIRECT]=trojan,139.162.29.4,11733,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇩🇪 TYO/JP - 2 [LINODE][TRANSIT]=trojan,china-zj-hz-1.forwardserver.xyz,44658,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇬🇧 英国 16=trojan,21.earths.team,443#%F0%9F%87%AC%F0%9F%87%A7%20GB_16,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🇬🇧 英国 17=trojan,21.earths.team,443#%F0%9F%87%AC%F0%9F%87%A7%20GB_17,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇭🇰 HKG/CN - 1 [AZ][DIRECT][STREAM]=trojan,20.205.120.35,11536,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇭🇰 HKG/CN - 2 [AZ][DIRECT]=trojan,52.175.62.234,10853,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇭🇰 HKG/CN - 3 [AZ][DIRECT][STREAM]=trojan,65.52.178.149,12049,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇭🇰 HKG/CN - 4 [2x][HKT][NATIVE][DIRECT][STREAM]=trojan,hkt.node.qchwnd.moe,11432,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇭🇰 香港 20=vmess,0220hk05.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0220hk05.fans8.xyz"
-🇭🇰 香港 21=vmess,104.208.90.84,41532,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"104.208.90.84"
-🇭🇰 香港 22=vmess,china-f4s-az-hk.898868.xyz,54975,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"china-f4s-az-hk.898868.xyz"
-🇭🇰 香港 23=vmess,microsoft.data.chacha20.xyz,443,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=true,tfo=false,ws=true,ws-path=/download,ws-headers=Host:"microsoft.data.chacha20.xyz"
-🇭🇰 香港 24=vmess,china-f4s-az-hk.898868.xyz,65406,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"china-f4s-az-hk.898868.xyz"
-🇭🇰 香港 25=vmess,china-f4s-az-hk.898868.xyz,38483,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"china-f4s-az-hk.898868.xyz"
-🇭🇰 香港 26=vmess,microsoft.uwpapp.chacha20.xyz,443,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=true,tfo=false,ws=true,ws-path=/uwpstore,ws-headers=Host:"microsoft.uwpapp.chacha20.xyz"
-🇭🇰 香港 27=vmess,china-f4s-az-hk.898868.xyz,59572,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"china-f4s-az-hk.898868.xyz"
-🇭🇰 香港 28=vmess,v2.3hk3.hgwc.xyz,10001,username=5d812995-b95c-47fc-a562-750173aeb305,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"v2.3hk3.hgwc.xyz"
-🇭🇰 香港 29=vmess,0227hk.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0227hk.fans8.xyz"
-🇭🇰 香港 30=trojan,42.earths.team,443#%F0%9F%87%AD%F0%9F%87%B0%20HK_30,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🇭🇰 香港 31=trojan,42.earths.team,443#%F0%9F%87%AD%F0%9F%87%B0%20HK_31,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇮🇷 DUB/IE - 1 [AZ][DIRECT]=trojan,137.135.221.53,443,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇯🇵 日本 33=vmess,004.AP.POP.BIGAIRPORT.NET,443,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"004.AP.POP.BIGAIRPORT.NET"
-🇯🇵 日本 34=vmess,1031kr.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"1031kr.fans8.xyz"
-🇯🇵 日本 35=vmess,0227jp.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0227jp.fans8.xyz"
-🇯🇵 日本 36=vmess,003.AP.POP.BIGAIRPORT.NET,80,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"003.AP.POP.BIGAIRPORT.NET"
-🇯🇵 日本 37=trojan,30.earths.team,443#%F0%9F%87%AF%F0%9F%87%B5%20JP_37,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇯🇵 日本 38=trojan,30.earths.team,443#%F0%9F%87%AF%F0%9F%87%B5%20JP_38,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🇱🇹 LT_39=vmess,0118ru.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0118ru.fans8.xyz"
-🇱🇹 LT_40=vmess,1222ru.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"1222ru.fans8.xyz"
-🇷🇺 俄罗斯 42=vmess,0122us.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0122us.fans8.xyz"
-🇷🇺 俄罗斯 43=vmess,v2.ru1.hgwc.xyz,10002,username=5d812995-b95c-47fc-a562-750173aeb305,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"v2.ru1.hgwc.xyz"
-🇷🇺 俄罗斯 44=vmess,v2.ru3.hgwc.xyz,10003,username=5d812995-b95c-47fc-a562-750173aeb305,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"v2.ru3.hgwc.xyz"
-🇷🇺 俄罗斯 45=vmess,v2.ru2.hgwc.xyz,10001,username=5d812995-b95c-47fc-a562-750173aeb305,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"v2.ru2.hgwc.xyz"
-🇸🇬 新加坡 46=trojan,14.earths.team,443#%F0%9F%87%B8%F0%9F%87%AC%20SG_46,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇸🇬 新加坡 47=trojan,14.earths.team,443#%F0%9F%87%B8%F0%9F%87%AC%20SG_47,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🇸🇬 新加坡 48=trojan,32.earths.team,443#%F0%9F%87%B8%F0%9F%87%AC%20SG_48,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🇸🇬 新加坡 49=trojan,32.earths.team,443#%F0%9F%87%B8%F0%9F%87%AC%20SG_49,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇹🇷 TWN/CN - 1 [2x][HiNet][NATIVE][TRANSIT][STREAM]=trojan,china-zj-hz-1.forwardserver.xyz,37313,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇹🇷 TYO/JP - 1 [AZ][DIRECT][STREAM]=trojan,52.253.105.171,443,password=99dcbc89-57ef-49de-b0af-8a1127a797d9,tfo=false
-🇺🇸 美国 51=vmess,cm.db-link.in,443,username=3e2241ef-9b8a-34f4-be7d-3fe6615bfba3,tls=true,tfo=false,ws=true,ws-path=/db,ws-headers=Host:"us01.db-link.in",sni=us01.db-link.in
-🇺🇸 美国 52=vmess,v2.kr4.hgwc.xyz,10006,username=5d812995-b95c-47fc-a562-750173aeb305,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"v2.kr4.hgwc.xyz"
-🇺🇸 美国 53=vmess,v2.nl.hgwc.xyz,10001,username=5d812995-b95c-47fc-a562-750173aeb305,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"v2.nl.hgwc.xyz"
-🇺🇸 美国 54=vmess,v2.usa1.hgwc.xyz,10007,username=5d812995-b95c-47fc-a562-750173aeb305,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"v2.usa1.hgwc.xyz"
-🇺🇸 美国 55=vmess,update.office.chacha20.xyz,443,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=true,tfo=false,ws=true,ws-path=/version,ws-headers=Host:"update.office.chacha20.xyz"
-🇺🇸 美国 56=vmess,029.NA.POP.BIGAIRPORT.NET,12356,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"029.NA.POP.BIGAIRPORT.NET"
-🇺🇸 美国 57=vmess,033.AP.POP.BIGAIRPORT.NET,12356,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"033.AP.POP.BIGAIRPORT.NET"
-🇺🇸 美国 58=vmess,040.NA.POP.BIGAIRPORT.NET,12356,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"040.NA.POP.BIGAIRPORT.NET"
-🇺🇸 美国 59=vmess,v2.usa4.hgwc.xyz,10005,username=5d812995-b95c-47fc-a562-750173aeb305,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"v2.usa4.hgwc.xyz"
-🇺🇸 美国 60=vmess,173.255.215.146,11443,username=d5c70a71-1b3c-41f2-a8e0-17323bc23821,tls=true,tfo=false,ws=true,ws-path=/api/common,ws-headers=Host:"usav2.ddns.tjiasu.xyz",sni=usav2.ddns.tjiasu.xyz
-🇺🇸 美国 61=vmess,onedrive.chacha20.xyz,443,username=3b07447e-94cf-4d72-96c6-d0a539098049,tls=true,tfo=false,ws=true,ws-path=/onedrive,ws-headers=Host:"onedrive.chacha20.xyz"
-🇺🇸 美国 62=vmess,007.AP.POP.BIGAIRPORT.NET,80,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"007.AP.POP.BIGAIRPORT.NET"
-🇺🇸 美国 63=trojan,7.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_63,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🇺🇸 美国 64=trojan,26.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_64,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇺🇸 美国 65=trojan,7.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_65,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇺🇸 美国 66=trojan,26.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_66,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🏴‍☠️ 🏁 ZZ_67=vmess,0227hk02.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0227hk02.fans8.xyz"
-🏴‍☠️ 🏁 ZZ_68=vmess,0107hk.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0107hk.fans8.xyz"
+🇺🇸 美国 51=vmess,120.wowogg.cyou,52220,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 52=vmess,83.wowogg.cyou,52283,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 53=vmess,134.wowogg.cyou,52334,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 54=vmess,0208us.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0208us.fans8.xyz"
+🇺🇸 美国 55=vmess,127.wowogg.cyou,52227,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 56=vmess,85.wowogg.cyou,52285,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 57=vmess,133.wowogg.cyou,52333,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 58=vmess,114.wowogg.cyou,52214,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 59=vmess,135.wowogg.cyou,52335,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 60=vmess,136.wowogg.cyou,52436,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 61=vmess,006.AP.POP.BIGAIRPORT.NET,443,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"006.AP.POP.BIGAIRPORT.NET"
+🇺🇸 美国 62=vmess,107.wowogg.cyou,52207,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 63=vmess,173.255.215.146,11443,username=d5c70a71-1b3c-41f2-a8e0-17323bc23821,tls=true,tfo=false,ws=true,ws-path=/api/common,ws-headers=Host:"usav2.ddns.tjiasu.xyz",sni=usav2.ddns.tjiasu.xyz
+🇺🇸 美国 64=vmess,104.wowogg.cyou,11222,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 65=vmess,82.wowogg.cyou,52282,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 66=vmess,90.wowogg.cyou,52290,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 67=vmess,101.wowogg.cyou,52201,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 68=vmess,cm.db-link.in,443,username=8a7e014b-bed8-3c0a-ab6b-3b2f631d05da,tls=true,tfo=false,ws=true,ws-path=/db,ws-headers=Host:"us01.db-link.in",sni=us01.db-link.in
+🇺🇸 美国 69=trojan,39.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_69,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
+🇺🇸 美国 70=trojan,39.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_70,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
+🇺🇸 美国 71=trojan,20.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_71,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
+🇺🇸 美国 72=trojan,7.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_72,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
+🇺🇸 美国 73=trojan,7.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_73,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
