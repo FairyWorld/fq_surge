@@ -1,41 +1,32 @@
-🇺🇸 美国 100=vmess,83.wowogg.cyou,52283,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 101=vmess,81.wowogg.cyou,52281,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 102=vmess,112.wowogg.cyou,52212,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 103=vmess,86.wowogg.cyou,52286,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 104=vmess,114.wowogg.cyou,52214,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 105=vmess,0208us.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0208us.fans8.xyz"
-🇺🇸 美国 106=vmess,db1.otwc-node.cc,81,username=42f2aa47-95f9-4a36-b490-db73749cf078,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"db1.otwc-node.cc"
-🇺🇸 美国 107=vmess,hk1.otwc-node.cc,81,username=42f2aa47-95f9-4a36-b490-db73749cf078,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"hk1.otwc-node.cc"
-🇺🇸 美国 108=vmess,db4.otwc-node.cc,84,username=42f2aa47-95f9-4a36-b490-db73749cf078,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"db4.otwc-node.cc"
-🇺🇸 美国 109=vmess,120.wowogg.cyou,52220,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 110=vmess,032.AP.POP.BIGAIRPORT.NET,12356,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"032.AP.POP.BIGAIRPORT.NET"
-🇺🇸 美国 111=vmess,031.AP.POP.BIGAIRPORT.NET,12356,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"031.AP.POP.BIGAIRPORT.NET"
-🇺🇸 美国 112=vmess,db3.otwc-node.cc,83,username=42f2aa47-95f9-4a36-b490-db73749cf078,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"db3.otwc-node.cc"
-🇺🇸 美国 113=vmess,85.wowogg.cyou,52285,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 114=vmess,021.AP.POP.BIGAIRPORT.NET,12356,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"www.baidu.com"
-🇺🇸 美国 115=vmess,84.wowogg.cyou,52284,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 116=vmess,132.wowogg.cyou,52332,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 117=vmess,133.wowogg.cyou,52333,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 118=vmess,134.wowogg.cyou,52334,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 119=vmess,135.wowogg.cyou,52335,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 120=vmess,007.AP.POP.BIGAIRPORT.NET,80,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"007.AP.POP.BIGAIRPORT.NET"
-🇺🇸 美国 121=vmess,db1.otwc-node.cc,81,username=52f236bb-b328-423c-944f-804f5c2059c6,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"db1.otwc-node.cc"
-🇺🇸 美国 122=vmess,127.wowogg.cyou,52227,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 123=trojan,7.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_123,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🇺🇸 美国 124=trojan,20.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_124,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇺🇸 美国 125=trojan,7.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_125,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
-🇺🇸 美国 126=trojan,20.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_126,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
-🇺🇸 美国 86=vmess,82.wowogg.cyou,52282,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 87=vmess,hk1.otwc-node.cc,81,username=52f236bb-b328-423c-944f-804f5c2059c6,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"hk1.otwc-node.cc"
-🇺🇸 美国 88=vmess,db2.otwc-node.cc,82,username=42f2aa47-95f9-4a36-b490-db73749cf078,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"db2.otwc-node.cc"
-🇺🇸 美国 89=vmess,db4.otwc-node.cc,84,username=52f236bb-b328-423c-944f-804f5c2059c6,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"db4.otwc-node.cc"
-🇺🇸 美国 90=vmess,136.wowogg.cyou,52436,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 91=vmess,99.wowogg.cyou,52299,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 92=vmess,db3.otwc-node.cc,83,username=52f236bb-b328-423c-944f-804f5c2059c6,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"db3.otwc-node.cc"
-🇺🇸 美国 93=vmess,101.wowogg.cyou,52201,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 94=vmess,006.AP.POP.BIGAIRPORT.NET,443,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"006.AP.POP.BIGAIRPORT.NET"
-🇺🇸 美国 95=vmess,90.wowogg.cyou,52290,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 96=vmess,104.wowogg.cyou,11222,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
-🇺🇸 美国 97=vmess,cm.db-link.in,443,username=8a7e014b-bed8-3c0a-ab6b-3b2f631d05da,tls=true,tfo=false,ws=true,ws-path=/db,ws-headers=Host:"us01.db-link.in",sni=us01.db-link.in
-🇺🇸 美国 98=vmess,db2.otwc-node.cc,82,username=52f236bb-b328-423c-944f-804f5c2059c6,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"db2.otwc-node.cc"
-🇺🇸 美国 99=vmess,107.wowogg.cyou,52207,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 45=vmess,006.AP.POP.BIGAIRPORT.NET,443,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"006.AP.POP.BIGAIRPORT.NET"
+🇺🇸 美国 46=vmess,99.wowogg.cyou,52299,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 47=vmess,107.wowogg.cyou,52207,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 48=vmess,104.wowogg.cyou,11222,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 49=vmess,101.wowogg.cyou,52201,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 50=vmess,120.wowogg.cyou,52220,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 51=vmess,90.wowogg.cyou,52290,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 52=vmess,86.wowogg.cyou,52286,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 53=vmess,83.wowogg.cyou,52283,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 54=vmess,132.wowogg.cyou,52332,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 55=vmess,133.wowogg.cyou,52333,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 56=vmess,134.wowogg.cyou,52334,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 57=vmess,135.wowogg.cyou,52335,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 58=vmess,82.wowogg.cyou,52282,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 59=vmess,81.wowogg.cyou,52281,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 60=vmess,173.255.215.146,11443,username=d5c70a71-1b3c-41f2-a8e0-17323bc23821,tls=true,tfo=false,ws=true,ws-path=/api/common,ws-headers=Host:"usav2.ddns.tjiasu.xyz",sni=usav2.ddns.tjiasu.xyz
+🇺🇸 美国 61=vmess,0208us.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0208us.fans8.xyz"
+🇺🇸 美国 62=vmess,036.AP.POP.BIGAIRPORT.NET,12356,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"036.AP.POP.BIGAIRPORT.NET"
+🇺🇸 美国 63=vmess,85.wowogg.cyou,52285,username=08103798-414e-32b6-8748-2507732d2c51,tls=false,tfo=false
+🇺🇸 美国 64=vmess,cm.db-link.in,443,username=8a410430-f1f7-3f98-8710-2412f4960bf8,tls=true,tfo=false,ws=true,ws-path=/db,ws-headers=Host:"us01.db-link.in",sni=us01.db-link.in
+🇺🇸 美国 65=trojan,39.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_65,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
+🇺🇸 美国 66=trojan,39.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_66,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
+🇺🇸 美国 67=trojan,7.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_67,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
+🇺🇸 美国 68=trojan,20.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_68,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
+🇺🇸 美国 69=trojan,7.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_69,password=6593b778-e45e-4f94-b5ae-641d4b7b02ae,tfo=false
+🇺🇸 美国 70=trojan,20.earths.team,443#%F0%9F%87%BA%F0%9F%87%B8%20US_70,password=b3d27d09-77fe-431d-9829-6eba7dce20b0,tfo=false
+🇺🇸 专线 美国 01=ss,iepl02.xbxb1122.xyz, 8531,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
+🇺🇸 专线 美国 02=ss,iepl03.xbxb1122.xyz, 8532,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
+🇺🇸 专线 美国 03=ss,iepl01.xbxb1122.xyz, 8533,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
+🇺🇸 中继 美国 01=ss,in05.xbxb1122.xyz, 8731,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
+🇺🇸 中继 美国 02=ss,in01.xbxb1122.xyz, 8732,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
+🇺🇸 中继 美国 03=ss,in02.xbxb1122.xyz, 8732,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
