@@ -7,4 +7,13 @@
 🇨🇳 回国 07 = vmess, 47.113.190.48, 47972, username=d1f1e8e0-bf5c-4219-8ba4-48de32c50557, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇳 回国 08 = vmess, 119.45.129.131, 32110, username=3d14fe18-b7c6-4a26-812a-9999ae70ced2, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇳 回国 09 = vmess, 39.96.73.137, 56383, username=7ec291c7-0c15-44e5-ae6d-c9003ee9acca, tls=false, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 中国 03=vmess,czlt.tuboshu.space,18808,username=047a9da8-4e01-3f9f-a3a6-b4eb10153b05,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"czlt.tuboshu.space"
+🇨🇳 中国 63=trojan,hygz.doggogogo.top,53030#%F0%9F%87%A8%F0%9F%87%B3%20CN_63,password=5eaea1b9-b977-3391-b7cb-370addb40ce2,tfo=false
+🇨🇳 中国 64=trojan,hygz.doggogogo.top,50102#%F0%9F%87%A8%F0%9F%87%B3%20CN_64,password=58975106-dc46-4942-b79e-336da67f1bbd,tfo=false
+🇨🇳 中国 65=trojan,zj1.doggogogo.top,51132#%F0%9F%87%A8%F0%9F%87%B3%20CN_65,password=5eaea1b9-b977-3391-b7cb-370addb40ce2,tfo=false
+🇨🇳 中国 66=trojan,fsyd.wecanfly.top,52000#%F0%9F%87%A8%F0%9F%87%B3%20CN_66,password=58975106-dc46-4942-b79e-336da67f1bbd,tfo=false
+🇨🇳 中国 67=trojan,fsyd.wecanfly.top,51221#%F0%9F%87%A8%F0%9F%87%B3%20CN_67,password=5eaea1b9-b977-3391-b7cb-370addb40ce2,tfo=false
+🇨🇳 中国 68=trojan,fsyd.wecanfly.top,52000#%F0%9F%87%A8%F0%9F%87%B3%20CN_68,password=5eaea1b9-b977-3391-b7cb-370addb40ce2,tfo=false
+🇨🇳 中国 69=trojan,fsyd.wecanfly.top,51219#%F0%9F%87%A8%F0%9F%87%B3%20CN_69,password=58975106-dc46-4942-b79e-336da67f1bbd,tfo=false
+🇨🇳 中国 70=trojan,fsyd.wecanfly.top,51133#%F0%9F%87%A8%F0%9F%87%B3%20CN_70,password=5eaea1b9-b977-3391-b7cb-370addb40ce2,tfo=false
+🇨🇳 中国 71=trojan,hygz.doggogogo.top,50102#%F0%9F%87%A8%F0%9F%87%B3%20CN_71,password=5eaea1b9-b977-3391-b7cb-370addb40ce2,tfo=false
+🇨🇳 中国 72=trojan,fsyd.wecanfly.top,51219#%F0%9F%87%A8%F0%9F%87%B3%20CN_72,password=5eaea1b9-b977-3391-b7cb-370addb40ce2,tfo=false
