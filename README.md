@@ -11,7 +11,7 @@ surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
 
 #### 已经转换后可以直接使用的订阅链接
 
-surge list（白嫖节点，一天更新一次）：
+surge list（白嫖节点，一天更新一次）：https://suo.yt/sshKD8h
 
 ## 节点正则表达式过滤：
 (A).*(B)             节点名既有 A又有 B 
