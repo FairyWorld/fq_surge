@@ -1,4 +1,5 @@
-🇨🇳 专线 台湾 01=ss,iepl03.xbxb1122.xyz, 8541,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
-🇨🇳 专线 台湾 02=ss,iepl01.xbxb1122.xyz, 8541,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
-🇨🇳 中继 台湾 01=ss,in01.xbxb1122.xyz, 8741,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
-🇨🇳 中继 台湾 02=ss,in02.xbxb1122.xyz, 8741,encrypt-method=aes-128-gcm,password=9CU44I,obfs=http,obfs-host=bf45419206.microsoft.com,tfo=false,udp-relay=true
+🇨🇳 TW_1099=vmess,61.222.202.140,15789,username=4535e708-5988-4377-a083-755ed60d8068,tls=false,tfo=false
+🇨🇳 TW_1100=vmess,61.222.202.213,12880,username=d4b64497-2773-4281-96f1-fc2914ea3c28,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"61.222.202.213"
+🇨🇳 TW_1101=vmess,61.222.202.140,33792,username=e55cd182-01b0-4fb7-a510-363701a491c5,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"61.222.202.140"
+🇨🇳 中转_US-TW_3002=vmess,jpaz2.xmrth-node.xyz,10067,username=fff8caab-7472-32c1-9a70-3953002ebb35,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
+🇨🇳 中转_US-TW_3018=vmess,jpaz1.xmrth-node.xyz,10063,username=fff8caab-7472-32c1-9a70-3953002ebb35,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
