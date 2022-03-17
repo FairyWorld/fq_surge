@@ -1,2 +1,4 @@
-🇨🇦 加拿大01=vmess,1222mnl.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"1222mnl.fans8.xyz"
-🇨🇦 加拿大02=vmess,0218kr02.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0218kr02.fans8.xyz"
+🇨🇦 Pool_CA_355=vmess,71.19.252.163,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"canada-vancouver.mah3Hoet.com",sni=canada-vancouver.mah3Hoet.com
+🇨🇦 中转_CA-CA_352=vmess,usa-buffalo.lvuft.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"usa-buffalo.lvuft.com",sni=usa-buffalo.lvuft.com
+🇨🇦 中转_CA-CA_353=vmess,canada-vancouver.mah3Hoet.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"canada-vancouver.mah3Hoet.com",sni=canada-vancouver.mah3Hoet.com
+🇨🇦 中转_CA-CA_354=vmess,192.186.129.66,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"usa-buffalo.lvuft.com",sni=usa-buffalo.lvuft.com
