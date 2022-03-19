@@ -1,22 +1,4 @@
-🇺🇸 中转_LT-US_843=vmess,nodea.showmeyoutube.com,3395,username=07d676a1-903d-4606-93bd-e3522089f951,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"nodea.showmeyoutube.com"
-🇺🇸 中转_US-JP_3003=vmess,jpaz3.xmrth-node.xyz,10051,username=fff8caab-7472-32c1-9a70-3953002ebb35,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇺🇸 中转_US-JP_3025=vmess,jpaz2.xmrth-node.xyz,10046,username=fff8caab-7472-32c1-9a70-3953002ebb35,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇺🇸 中转_US-JP_3026=vmess,jpaz1.xmrth-node.xyz,10045,username=fff8caab-7472-32c1-9a70-3953002ebb35,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇺🇸 中转_US-US_3004=vmess,cloudflare.a-yu.xyz,443,username=a8910831-f56b-4ac4-c68f-e4dd83f71e60,tls=true,tfo=false,ws=true,ws-path=/sakura/,ws-headers=Host:"zero2.a-yu.xyz",sni=zero2.a-yu.xyz
-🇺🇸 中转_US-US_3009=vmess,033.AP.POP.BIGAIRPORT.NET,12356,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"033.AP.POP.BIGAIRPORT.NET"
-🇺🇸 中转_US-US_3011=vmess,fa1.uuv2.co.uk,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"usa-washington.lvuft.com",sni=usa-washington.lvuft.com
-🇺🇸 中转_US-US_3012=vmess,jpaz2.xmrth-node.xyz,10141,username=fff8caab-7472-32c1-9a70-3953002ebb35,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇺🇸 中转_US-US_3013=vmess,jpaz1.xmrth-node.xyz,10058,username=fff8caab-7472-32c1-9a70-3953002ebb35,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇺🇸 中转_US-US_3019=vmess,192.96.204.250,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"usa-washington.lvuft.com",sni=usa-washington.lvuft.com
-🇺🇸 中转_US-US_3021=vmess,010.NA.POP.BIGAIRPORT.NET,443,username=cdda042c-0efd-4e49-9550-d8a6fc9f2254,tls=false,tfo=false,ws=true,ws-path=/,ws-headers=Host:"010.NA.POP.BIGAIRPORT.NET"
-🇺🇸 中转_US-US_3023=vmess,dax6ujai.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"dax6ujai.com",sni=dax6ujai.com
-🇺🇸 中转_US-US_3031=vmess,jpaz3.xmrth-node.xyz,10140,username=fff8caab-7472-32c1-9a70-3953002ebb35,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇺🇸 中转_US-US_3032=vmess,142.4.127.67,443,username=418048af-a293-4b99-9b0c-98ca3580dd24,tls=true,tfo=false,ws=true,ws-path=/path/310910211916,ws-headers=Host:"www.47727450.xyz",sni=www.47727450.xyz
-🇺🇸 中转_US-US_3036=vmess,ua1.uuv2.co.uk,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"ua1.uuv2.co.uk"
-🇺🇸 中转_US-US_3038=vmess,iesei1ei.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"iesei1ei.com",sni=iesei1ei.com
-🇺🇸 中转_US-US_3041=vmess,ahdaeph8.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"ahdaeph8.com",sni=ahdaeph8.com
-🇺🇸 中转_US-US_3042=vmess,amu1ahfi.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"amu1ahfi.com",sni=amu1ahfi.com
-🇺🇸 中转_US-US_3043=vmess,usa-washington.lvuft.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"usa-washington.lvuft.com",sni=usa-washington.lvuft.com
-🇺🇸 中转_US-US_3045=vmess,viibah6u.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"viibah6u.com",sni=viibah6u.com
-🇺🇸 中转_US-US_3047=vmess,lvuft.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"lvuft.com",sni=lvuft.com
-🇺🇸 中转_US-US_3052=vmess,usa-dallas.lvuft.com,443,username=aba50dd4-5484-3b05-b14a-4661caf862d5,tls=true,tfo=false,ws=true,ws-path=/ws,ws-headers=Host:"usa-dallas.lvuft.com",sni=usa-dallas.lvuft.com
+🇺🇸 [vip1]︱V2ray︱①美国原生 1000M｜×1x｜限速100M=vmess,29.wgong1.xyz,52229,username=7b0e18c2-7c79-370b-833d-5b2191ea112a,tls=false,tfo=false
+🇺🇸 [vip1]︱V2ray︱⑲美国｜原生节点 1000M｜×1x｜限速100M=vmess,123.wgong1.xyz,52223,username=7b0e18c2-7c79-370b-833d-5b2191ea112a,tls=false,tfo=false
+🇺🇸 [vip1]︱V2ray︱⑳美国｜原生节点 1000M｜×1x｜限速100M=vmess,124.wgong1.xyz,52224,username=7b0e18c2-7c79-370b-833d-5b2191ea112a,tls=false,tfo=false
+🇺🇸 美国1-三网优化-强加密=vmess,0314la01.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/ray,ws-headers=Host:"0314la01.fans8.xyz",sni=0314la01.fans8.xyz
