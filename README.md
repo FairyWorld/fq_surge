@@ -1,6 +1,6 @@
 TG频道：https://t.me/surgeproshare
 # surge
-surge外部代理集链接：https://github.com/temppw/surge/raw/main/surge.list
+surge外部代理集链接：https://github.com/temppw/surge/raw/main/all.list
 
 配置托管：https://github.com/temppw/surge/raw/main/surge.conf
 
