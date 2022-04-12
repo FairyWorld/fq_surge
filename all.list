@@ -1,7 +1,8 @@
-🇭🇰 Relay_HK-HK_883=trojan,hkmf1.speedcncnforward2.tk,80,password=da0ea9bc-0dc1-4714-820f-44e87692930f,skip-cert-verify=true,tfo=false,udp-relay=false
-🇭🇰 Relay_HK-HK_884=trojan,hkmf2.speedcncnforward3.tk,80,password=eb40a3f4-3b04-4a1c-993d-d71b44fee92c,skip-cert-verify=true,tfo=false,udp-relay=false
-🇭🇰 HK(TG/atyzcloud)_2=trojan,hkmf2.speedcncnforward3.tk,80,password=eb40a3f4-3b04-4a1c-993d-d71b44fee92c,skip-cert-verify=true,tfo=false,udp-relay=false
-🇭🇰 HK(TG/atyzcloud)_1=trojan,gy.sharecentrepro.tk,13397,password=d3b04e55-f2ae-4500-b317-e23946dde463,skip-cert-verify=true,tfo=false,udp-relay=false
+🇯🇵 日本节点(免费)倍率(0倍率不消耗流量)=trojan,rbmf.speedcncnforward3.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=rbmf.speedcncnforward3.tk,tfo=true,udp-relay=true
+🇭🇰 香港节点2(免费)倍率(0倍率不消耗流量)=trojan,hkmf2.speedcncnforward3.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=hkmf2.speedcncnforward3.tk,tfo=true,udp-relay=true
+🇭🇰 香港节点1(免费)倍率(0倍率不消耗流量)=trojan,hkmf1.speedcncnforward2.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=hkmf1.speedcncnforward2.tk,tfo=true,udp-relay=true
+🇰🇷 韩国(解锁Netflix)(免费)倍率(0倍率不消耗流量)=trojan,hgmf.speedcncnforward2.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=hgmf.speedcncnforward2.tk,tfo=true,udp-relay=true
+🇸🇬 新加坡(解锁Netflix)(免费)倍率(0倍率不消耗流量)=trojan,xjpmf.speedcncnforward2.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=xjpmf.speedcncnforward2.tk,tfo=true,udp-relay=true
 🇭🇰 香港IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45239,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
 🇭🇰 香港IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45239,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
 🇭🇰 香港IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45240,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
