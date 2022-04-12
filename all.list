@@ -1,234 +1,28 @@
-🇦🇷 ARG  CN2/01 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 51006,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇦🇺 AU 001=vmess,aulin001.xmrth-node.xyz,10131,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇨🇳 TWN CM.A/01 x1.0=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 41001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇨🇳 TWN CM.A/02 x1.0=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 41002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇨🇳 TWN CM.A/03 x1.0=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 41003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇨🇳 TWN IEPL.A/01 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 41001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇨🇳 TWN IEPL.A/02 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 41002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇨🇳 TWN IEPL.A/03 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 41003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇨🇳 台湾1-三网优化-强加密=vmess,0322tw.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/nl,ws-headers=Host:"0322tw.fans8.xyz",sni=0322tw.fans8.xyz
-🇨🇳 台湾2-三网优化-强加密=vmess,0314tw02.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/ray,ws-headers=Host:"0314tw02.fans8.xyz",sni=0314tw02.fans8.xyz
-🇨🇳 台湾3-三网优化-强加密=vmess,0319tw123.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/nmsl,ws-headers=Host:"0319tw123.fans8.xyz",sni=0319tw123.fans8.xyz
-🇩🇪 DE 001=vmess,delin001.xmrth-node.xyz,10591,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇬🇧 GBR IEPL.A/01 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 51002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇬🇧 UK 001=vmess,uklin001.xmrth-node.xyz,10049,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇬🇧 UK 002=vmess,ukaws002.xmrth-node.xyz,10292,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 001=vmess,hkaz001.xmrth-node.xyz,10163,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 002=vmess,hkaz002.xmrth-node.xyz,10281,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 003=vmess,hkaz003.xmrth-node.xyz,10002,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 004=vmess,hkaz004.xmrth-node.xyz,10003,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 005=vmess,hkaz005.xmrth-node.xyz,10276,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 006=vmess,hkaz006.xmrth-node.xyz,10037,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 007=vmess,hkaz007.xmrth-node.xyz,10296,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 008=vmess,hkaz008.xmrth-node.xyz,10287,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 009=vmess,hkaz009.xmrth-node.xyz,10275,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 010=vmess,hkaz010.xmrth-node.xyz,10283,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 101=vmess,hkaz1.xmrth-node.xyz,10128,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 102=vmess,hkaz2.xmrth-node.xyz,10498,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 103=vmess,hkaz3.xmrth-node.xyz,10305,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 105=vmess,hkaz5.xmrth-node.xyz,10077,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 106=vmess,hkaz6.xmrth-node.xyz,10548,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 107=vmess,hkaz7.xmrth-node.xyz,10162,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HK 201=vmess,hgc1.xmrth-node.xyz,10571,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇭🇰 HKG CM.A/01 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/02 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/03 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/04 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/05 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/06 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21006,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/07 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21007,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/08 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21008,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/09 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21009,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.A/10 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 21010,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/01 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/02 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/03 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/04 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/05 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/06 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21006,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/07 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21007,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/08 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21008,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/09 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21009,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CM.B/10 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 21010,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/01 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/02 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/03 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/04 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/05 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/06 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21006,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/07 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21007,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/08 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21008,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/09 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21009,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG CN2/10 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 21010,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/01 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/02 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/03 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/04 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/05 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/06 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21006,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/07 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21007,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/08 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21008,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/09 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21009,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.A/10 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 21010,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/01 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/02 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/03 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/04 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/05 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/06 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21006,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/07 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21007,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/08 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21008,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/09 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21009,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 HKG IEPL.B/10 x1.0=ss,f72a1b44-b454-43ae-bd06-f13524958c7c.404sx.com, 21010,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇭🇰 [标准]香港 02=trojan,aead-hkt-jd.dnsfree.top,10415,password=fe477131-2df1-4948-9de2-9d5640660141,tfo=false
-🇭🇰 |[HK]多肉莓莓 * 1x=trojan,hk.coco233.xyz,35421,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=hk.coco233.xyz,tfo=true
-🇭🇰 |[HK]多肉莓莓 B 1x=trojan,jmct.hypixel.cam,54216,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=hk.coco233.xyz,tfo=true
-🇭🇰 |[HK]生椰拿铁 * 1x=trojan,hk.coco233.xyz,13465,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=hk.coco233.xyz,tfo=true
-🇭🇰 |[HK]西瓜啵啵 * 1x=trojan,hk.coco233.xyz,36421,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=hk.coco233.xyz,tfo=true
-🇭🇰 「」人书「免流⦻1」=vmess,tv1.tjvpn.top,80,username=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,tls=false,tfo=true,ws=true,ws-path=/,ws-headers=Host:"shoutingtoutiao3.10010.com"
-🇭🇰 「」仙书「直连⦻0.1」=trojan,zf.tjvpn.top,52022,password=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,skip-cert-verify=false,sni=tt7.tjvpn.top,tfo=true
-🇭🇰 「」天书「中转⦻1」=ss,zf.tjvpn.top, 22022,encrypt-method=chacha20-ietf-poly1305,password=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,tfo=true,udp-relay=true
-🇭🇰 港WTT-1=trojan,ssl.tcpbbr.net,443#%F0%9F%87%AD%F0%9F%87%B0%20%E6%B8%AFWTT,password=08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9,tfo=false
-🇭🇰 港WTT-2=trojan,ssl.tcpbbr.net,443#%F0%9F%87%AD%F0%9F%87%B0%20%E6%B8%AFWTT,password=283695dc-fcc8-11ea-8684-f23c913c8d2b,tfo=false
-🇭🇰 香港1-三网优化-强加密=vmess,0320hkhh.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/ray,ws-headers=Host:"0320hkhh.fans8.xyz",sni=0320hkhh.fans8.xyz
-🇭🇰 香港3-三网优化-强加密=vmess,0320hk567.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/ray,ws-headers=Host:"0320hk567.fans8.xyz",sni=0320hk567.fans8.xyz
-🇭🇰 香港5-三网优化-强加密=vmess,0320hk1646.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/nl,ws-headers=Host:"0320hk1646.fans8.xyz",sni=0320hk1646.fans8.xyz
-🇭🇰 香港8-三网优化-强加密=vmess,0320hk857.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/ray,ws-headers=Host:"0320hk857.fans8.xyz",sni=0320hk857.fans8.xyz
-🇭🇰 香港HGC～东莞电信 2.5×=trojan,120.233.147.232,20002,password=a7d0812a-f8e3-45f9-9a57-b2b3392d765b,tfo=false
-🇭🇰 香港WTT=trojan,ssl.tcpbbr.net,443#%E9%A6%99%E6%B8%AFWTT,password=283695dc-fcc8-11ea-8684-f23c913c8d2b,tfo=false
-🇮🇳 「」佛书「直连⦻1」=trojan,tt5.tjvpn.top,443,password=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,skip-cert-verify=false,sni=tt5.tjvpn.top,tfo=true
-🇯🇵 JP 001=vmess,jpaws001.xmrth-node.xyz,10309,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JP 002=vmess,jpaws002.xmrth-node.xyz,10532,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JP 003=vmess,jplin003.xmrth-node.xyz,10603,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JP 004=vmess,jplin004.xmrth-node.xyz,10475,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JP 005=vmess,jplin005.xmrth-node.xyz,10261,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JP 006=vmess,jpaws006.xmrth-node.xyz,10256,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JP 101=vmess,jpaz1.xmrth-node.xyz,10052,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JP 102=vmess,jpaz2.xmrth-node.xyz,10142,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JP 103=vmess,jpaz3.xmrth-node.xyz,10385,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇯🇵 JPN CM.A/01 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 11001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.A/02 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 11002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.A/03 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 11003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.A/04 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 11004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.A/05 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 11005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.B/01 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 11001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.B/02 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 11002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.B/03 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 11003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.B/04 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 11004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CM.B/05 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 11005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CN2/01 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 11001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CN2/02 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 11002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CN2/03 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 11003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CN2/04 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 11004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN CN2/05 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 11005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN IEPL.A/01 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 11001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN IEPL.A/02 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 11002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN IEPL.A/03 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 11003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN IEPL.A/04 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 11004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 JPN IEPL.A/05 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 11005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇯🇵 |[JP]白桃麻薯 B 1x=trojan,china-gzyd-1.forwardserver.xyz,32542,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=jp.coco233.xyz,tfo=true
-🇯🇵 |[JP]草莓牛乳 C 1x=trojan,cscu.hypixel.cam,57100,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=jp.coco233.xyz,tfo=true
-🇯🇵 |[JP]蜜桃四季春 * 1x[IPLC]=trojan,gzhk-500.hmbcloud.net,20252,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=jp.coco233.xyz,tfo=true
-🇯🇵 「」鬼书「直连⦻0.1」=trojan,tt6.tjvpn.top,443,password=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,skip-cert-verify=false,sni=tt6.tjvpn.top,tfo=true
-🇯🇵 日本8-三网优化-强加密=vmess,0320jp.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/ray,ws-headers=Host:"0320jp.fans8.xyz",sni=0320jp.fans8.xyz
-🇰🇷 KR 001=vmess,kraws001.xmrth-node.xyz,10345,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇰🇷 KR 002=vmess,kraws002.xmrth-node.xyz,10359,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇰🇷 KR 003=vmess,kraws003.xmrth-node.xyz,10264,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇰🇷 KR 004=vmess,kraws004.xmrth-node.xyz,10265,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇰🇷 KR 005=vmess,kraws005.xmrth-node.xyz,10378,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇰🇷 KR 006=vmess,kraws006.xmrth-node.xyz,10494,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇰🇷 KR 007=vmess,kraws007.xmrth-node.xyz,10486,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇰🇷 「」妖书「直连⦻1」=trojan,tt3.tjvpn.top,2087,password=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,skip-cert-verify=false,sni=tt3.tjvpn.top,tfo=true
-🇰🇷 韩国2-三网优化-强加密=vmess,0320kr99.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/nmsl,ws-headers=Host:"0320kr99.fans8.xyz",sni=0320kr99.fans8.xyz
-🇷🇴 罗马尼亚1-三网优化-强加密=vmess,0316ro.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/nl,ws-headers=Host:"0316ro.fans8.xyz",sni=0316ro.fans8.xyz
-🇷🇺 RUS  CM.A/01 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 51001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇷🇺 RUS  CM.B/01 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 51001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇷🇺 RUS  CN2/01 x0.3=ss,f074f635-439e-4eb5-8d62-b3369bd7264d.404sx.com, 51001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇷🇺 RUS  IEPL.A/01 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 51001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇷🇺 俄罗斯1-三网优化-强加密=vmess,0319ru99.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/nmsl,ws-headers=Host:"0319ru99.fans8.xyz",sni=0319ru99.fans8.xyz
-🇷🇺 俄罗斯2-三网优化-普通加密=vmess,0320ru1702.fans8.xyz,80,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=false,tfo=false,ws=true,ws-path=/v2ray,ws-headers=Host:"0320ru1702.fans8.xyz"
-🇸🇬 SG 001=vmess,sgaws001.xmrth-node.xyz,10531,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇸🇬 SG 002=vmess,sgaws002.xmrth-node.xyz,10527,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇸🇬 SG 003=vmess,sgaws003.xmrth-node.xyz,10271,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇸🇬 SG 004=vmess,sgaws004.xmrth-node.xyz,10272,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇸🇬 SG 005=vmess,sgaws005.xmrth-node.xyz,10574,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇸🇬 SG 006=vmess,sgaws006.xmrth-node.xyz,10606,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇸🇬 SG 007=vmess,sgaws007.xmrth-node.xyz,10597,username=50806b91-3c9f-346a-9a5d-cbb9d2f40d06,tls=false,tfo=false,ws=true,ws-path=/index,ws-headers=Host:"www.baidu.com"
-🇸🇬 SGP CM.A/01 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 61001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.A/02 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 61002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.A/03 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 61003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.A/04 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 61004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.A/05 x0.3=ss,8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, 61005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.B/01 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 61001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.B/02 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 61002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.B/03 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 61003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.B/04 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 61004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP CM.B/05 x0.3=ss,7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, 61005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP IEPL.A/01 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 61001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP IEPL.A/02 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 61002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP IEPL.A/03 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 61003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP IEPL.A/04 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 61004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 SGP IEPL.A/05 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 61005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇸🇬 |[SG]|翡翠柠檬 * 1x=trojan,sg.coco233.xyz,35421,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=sg.coco233.xyz,tfo=true
-🇸🇬 |[SG]|翡翠柠檬 B 1x=trojan,china-gzyd-1.forwardserver.xyz,37625,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=sg.coco233.xyz,tfo=true
-🇸🇬 |[SG]|翡翠柠檬 C 1x=trojan,jmct.hypixel.cam,56421,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=sg.coco233.xyz,tfo=true
-🇸🇬 「」地书「直连⦻0.1」=trojan,zf.tjvpn.top,12022,password=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,skip-cert-verify=false,sni=tt1.tjvpn.top,tfo=true
-🇸🇬 「」神书「直连⦻1」=trojan,tt4.tjvpn.top,2096,password=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,skip-cert-verify=false,sni=tt4.tjvpn.top,tfo=true
-🇸🇬 新加坡(绿头外网集团)(Public) 2=trojan,54.151.190.78,28443,password=a7d0812a-f8e3-45f9-9a57-b2b3392d765b,tfo=false
-🇸🇬 新加坡(绿头外网集团)(Public) 3=trojan,3.0.180.140,28443,password=a7d0812a-f8e3-45f9-9a57-b2b3392d765b,tfo=false
-🇸🇬 新加坡(绿头外网集团)(Public) 5=trojan,54.179.225.210,28443,password=a7d0812a-f8e3-45f9-9a57-b2b3392d765b,tfo=false
-🇸🇬 新加坡2号=trojan,54.179.225.210,28443,password=a7d0812a-f8e3-45f9-9a57-b2b3392d765b,tfo=false
-🇺🇸 USA IEPL.A/01 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 31001,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇺🇸 USA IEPL.A/02 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 31002,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇺🇸 USA IEPL.A/03 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 31003,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇺🇸 USA IEPL.A/04 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 31004,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇺🇸 USA IEPL.A/05 x1.0=ss,5e0af12d-db5e-42e8-b88e-98aff594dd5e.404sx.com, 31005,encrypt-method=chacha20-ietf-poly1305,password=becc710a-50f8-447d-a642-faa3edce0be2,tfo=true,udp-relay=true
-🇺🇸 US_0443 @WangCai_1-1=ss,38.75.137.187, 443,encrypt-method=aes-256-gcm,password=pKEW8JPByTVTLtM,tfo=false,udp-relay=false
-🇺🇸 US_0443 @WangCai_1-2=ss,38.75.137.66, 443,encrypt-method=aes-256-gcm,password=pKEW8JPByTVTLtM,tfo=false,udp-relay=false
-🇺🇸 US_4444 @WangCai_1-1=ss,38.75.137.187, 4444,encrypt-method=aes-256-gcm,password=pKEW8JPByTVTLtM,tfo=false,udp-relay=false
-🇺🇸 US_4444 @WangCai_1-2=ss,38.75.137.66, 4444,encrypt-method=aes-256-gcm,password=pKEW8JPByTVTLtM,tfo=false,udp-relay=false
-🇺🇸 US_5001 @WangCai_1-1=ss,38.75.137.187, 5001,encrypt-method=aes-256-gcm,password=Y6R9pAtvxxzmGC,tfo=false,udp-relay=false
-🇺🇸 US_5001 @WangCai_1-2=ss,38.75.137.66, 5001,encrypt-method=aes-256-gcm,password=Y6R9pAtvxxzmGC,tfo=false,udp-relay=false
-🇺🇸 US_5500 @WangCai_1-1=ss,38.75.137.187, 5500,encrypt-method=aes-256-gcm,password=KixLvKzwjekG00rm,tfo=false,udp-relay=false
-🇺🇸 US_5500 @WangCai_1-2=ss,38.75.137.66, 5500,encrypt-method=aes-256-gcm,password=KixLvKzwjekG00rm,tfo=false,udp-relay=false
-🇺🇸 US_5601 @WangCai_1-1=ss,38.75.137.187, 5601,encrypt-method=aes-256-gcm,password=Y6R9pAtvxxzmGC,tfo=false,udp-relay=false
-🇺🇸 US_5601 @WangCai_1-2=ss,38.75.137.66, 5601,encrypt-method=aes-256-gcm,password=Y6R9pAtvxxzmGC,tfo=false,udp-relay=false
-🇺🇸 US_6379 @WangCai_1-1=ss,38.75.137.187, 6379,encrypt-method=aes-256-gcm,password=zDNVedRFPQexG9v,tfo=false,udp-relay=false
-🇺🇸 US_6379 @WangCai_1-2=ss,38.75.137.66, 6379,encrypt-method=aes-256-gcm,password=zDNVedRFPQexG9v,tfo=false,udp-relay=false
-🇺🇸 US_6679 @WangCai_1-1=ss,38.75.137.187, 6679,encrypt-method=aes-256-gcm,password=TEzjfAYq2IjtuoS,tfo=false,udp-relay=false
-🇺🇸 US_6679 @WangCai_1-2=ss,38.75.137.66, 6679,encrypt-method=aes-256-gcm,password=TEzjfAYq2IjtuoS,tfo=false,udp-relay=false
-🇺🇸 US_6697 @WangCai_1-1=ss,38.75.137.187, 6697,encrypt-method=aes-256-gcm,password=TEzjfAYq2IjtuoS,tfo=false,udp-relay=false
-🇺🇸 US_6697 @WangCai_1-2=ss,38.75.137.66, 6697,encrypt-method=aes-256-gcm,password=TEzjfAYq2IjtuoS,tfo=false,udp-relay=false
-🇺🇸 US_7001 @WangCai_1-1=ss,38.75.137.187, 7001,encrypt-method=aes-256-gcm,password=RexnBgU7EV5ADxG,tfo=false,udp-relay=false
-🇺🇸 US_7001 @WangCai_1-2=ss,38.75.137.66, 7001,encrypt-method=aes-256-gcm,password=RexnBgU7EV5ADxG,tfo=false,udp-relay=false
-🇺🇸 US_7002 @WangCai_1-1=ss,38.75.137.187, 7002,encrypt-method=aes-256-gcm,password=RexnBgU7EV5ADxG,tfo=false,udp-relay=false
-🇺🇸 US_7002 @WangCai_1-2=ss,38.75.137.66, 7002,encrypt-method=aes-256-gcm,password=RexnBgU7EV5ADxG,tfo=false,udp-relay=false
-🇺🇸 US_7306 @WangCai_1-1=ss,38.75.137.187, 7306,encrypt-method=aes-256-gcm,password=FoOiGlkAA9yPEGP,tfo=false,udp-relay=false
-🇺🇸 US_7306 @WangCai_1-2=ss,38.75.137.66, 7306,encrypt-method=aes-256-gcm,password=FoOiGlkAA9yPEGP,tfo=false,udp-relay=false
-🇺🇸 US_8000 @WangCai_1=ss,38.75.137.66, 8000,encrypt-method=aes-256-gcm,password=KixLvKzwjekG00rm,tfo=false,udp-relay=false
-🇺🇸 US_8008 @WangCai_1-1=ss,38.75.137.187, 8008,encrypt-method=aes-256-gcm,password=XKFKl2rULjIp74,tfo=false,udp-relay=false
-🇺🇸 US_8008 @WangCai_1-2=ss,38.75.137.66, 8008,encrypt-method=aes-256-gcm,password=XKFKl2rULjIp74,tfo=false,udp-relay=false
-🇺🇸 US_8009 @WangCai_1-1=ss,38.75.137.187, 8009,encrypt-method=aes-256-gcm,password=XKFKl2rULjIp74,tfo=false,udp-relay=false
-🇺🇸 US_8009 @WangCai_1-2=ss,38.75.137.66, 8009,encrypt-method=aes-256-gcm,password=XKFKl2rULjIp74,tfo=false,udp-relay=false
-🇺🇸 US_8080 @WangCai_1=ss,38.75.137.66, 8080,encrypt-method=aes-256-gcm,password=KixLvKzwjekG00rm,tfo=false,udp-relay=false
-🇺🇸 US_8091 @WangCai_1=ss,38.75.137.66, 8091,encrypt-method=aes-256-gcm,password=PCnnH6SQSnfoS27,tfo=false,udp-relay=false
-🇺🇸 US_8118 @WangCai_1-1=ss,38.75.137.187, 8118,encrypt-method=aes-256-gcm,password=cdBIDV42DCwnfIN,tfo=false,udp-relay=false
-🇺🇸 US_8118 @WangCai_1-2=ss,38.75.137.66, 8118,encrypt-method=aes-256-gcm,password=cdBIDV42DCwnfIN,tfo=false,udp-relay=false
-🇺🇸 US_8119 @WangCai_1-1=ss,38.75.137.187, 8119,encrypt-method=aes-256-gcm,password=cdBIDV42DCwnfIN,tfo=false,udp-relay=false
-🇺🇸 US_8119 @WangCai_1-2=ss,38.75.137.66, 8119,encrypt-method=aes-256-gcm,password=cdBIDV42DCwnfIN,tfo=false,udp-relay=false
-🇺🇸 US_8881 @WangCai_1-1=ss,38.75.137.187, 8881,encrypt-method=aes-256-gcm,password=kDWvXYZoTBcGkC4,tfo=false,udp-relay=false
-🇺🇸 US_8881 @WangCai_1-2=ss,38.75.137.66, 8881,encrypt-method=aes-256-gcm,password=kDWvXYZoTBcGkC4,tfo=false,udp-relay=false
-🇺🇸 US_8882 @WangCai_1-1=ss,38.75.137.187, 8882,encrypt-method=aes-256-gcm,password=kDWvXYZoTBcGkC4,tfo=false,udp-relay=false
-🇺🇸 US_8882 @WangCai_1-2=ss,38.75.137.66, 8882,encrypt-method=aes-256-gcm,password=kDWvXYZoTBcGkC4,tfo=false,udp-relay=false
-🇺🇸 US_8888 @WangCai_1=ss,38.75.137.66, 8888,encrypt-method=aes-256-gcm,password=Y6R9pAtvxxzmGC,tfo=false,udp-relay=false
-🇺🇸 US_9101 @WangCai_1-1=ss,38.75.137.187, 9101,encrypt-method=aes-256-gcm,password=e4FCWrgpkji3QY,tfo=false,udp-relay=false
-🇺🇸 US_9101 @WangCai_1-2=ss,38.75.137.66, 9101,encrypt-method=aes-256-gcm,password=e4FCWrgpkji3QY,tfo=false,udp-relay=false
-🇺🇸 US_9102 @WangCai_1-1=ss,38.75.137.187, 9102,encrypt-method=aes-256-gcm,password=e4FCWrgpkji3QY,tfo=false,udp-relay=false
-🇺🇸 US_9102 @WangCai_1-2=ss,38.75.137.66, 9102,encrypt-method=aes-256-gcm,password=e4FCWrgpkji3QY,tfo=false,udp-relay=false
-🇺🇸 Ytb:冰河圈子_美国_40=trojan,us2.tcpbbr.net,443#Ytb,password=283695dc-fcc8-11ea-8684-f23c913c8d2b,tfo=false
-🇺🇸 ^美国US 4153 *hi-moon.pw=trojan,us2.tcpbbr.net,443#%5E%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%204153%20*hi-moon.pw,password=283695dc-fcc8-11ea-8684-f23c913c8d2b,tfo=false
-🇺🇸 |[US]|啵啵麻薯 * 1x=trojan,us.coco233.xyz,26452,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=us.coco233.xyz,tfo=true
-🇺🇸 |[US]|啵啵麻薯 B 1x=trojan,jmct.hypixel.cam,56928,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=us.coco233.xyz,tfo=true
-🇺🇸 |[US]|啵啵麻薯 C 1x=trojan,cscu.hypixel.cam,56227,password=b687b90f-54e3-4123-8771-3425fde5aff0,skip-cert-verify=true,sni=us.coco233.xyz,tfo=true
-🇺🇸 「」魔书「直连⦻1」=trojan,tt2.tjvpn.top,520,password=e64b7c51-d368-4bb2-ba0b-32aeb5e9d8c6,skip-cert-verify=false,sni=tt2.tjvpn.top,tfo=true
-🇺🇸 美国1-三网优化-强加密=vmess,0321us.fans8.xyz,443,username=5c70da5d-e641-3bf8-b7dc-5babd843ff3c,tls=true,tfo=false,ws=true,ws-path=/nl,ws-headers=Host:"0321us.fans8.xyz",sni=0321us.fans8.xyz
+🇭🇰 Relay_HK-HK_883=trojan,hkmf1.speedcncnforward2.tk,80,password=da0ea9bc-0dc1-4714-820f-44e87692930f,skip-cert-verify=true,tfo=false,udp-relay=false
+🇭🇰 Relay_HK-HK_884=trojan,hkmf2.speedcncnforward3.tk,80,password=eb40a3f4-3b04-4a1c-993d-d71b44fee92c,skip-cert-verify=true,tfo=false,udp-relay=false
+🇭🇰 HK(TG/atyzcloud)_2=trojan,hkmf2.speedcncnforward3.tk,80,password=eb40a3f4-3b04-4a1c-993d-d71b44fee92c,skip-cert-verify=true,tfo=false,udp-relay=false
+🇭🇰 HK(TG/atyzcloud)_1=trojan,gy.sharecentrepro.tk,13397,password=d3b04e55-f2ae-4500-b317-e23946dde463,skip-cert-verify=true,tfo=false,udp-relay=false
+🇭🇰 香港IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45239,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
+🇭🇰 香港IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45239,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
+🇭🇰 香港IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45240,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇭🇰 香港IDC宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45240,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇭🇰 香港家庭宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45250,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
+🇭🇰 香港家庭宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45250,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
+🇭🇰 香港家庭宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45251,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇭🇰 香港家庭宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45251,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇸🇬 新加坡IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45149,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
+🇸🇬 新加坡IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45149,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
+🇸🇬 新加坡IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45144,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇸🇬 新加坡IDC宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45144,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇯🇵 日本IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45184,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
+🇯🇵 日本IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45184,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
+🇯🇵 日本IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45183,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇯🇵 日本IDC宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45183,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇺🇸 美国IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45194,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
+🇺🇸 美国IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45194,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
+🇺🇸 美国IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45190,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇺🇸 美国IDC宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45190,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇨🇳 台湾家庭宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45394,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
+🇨🇳 台湾家庭宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45394,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
+🇨🇳 台湾家庭宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45392,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇨🇳 台湾家庭宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45392,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
