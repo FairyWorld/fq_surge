@@ -1,8 +1,3 @@
-🇯🇵 日本节点(免费)倍率(0倍率不消耗流量)=trojan,rbmf.speedcncnforward3.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=rbmf.speedcncnforward3.tk,tfo=true,udp-relay=true
-🇭🇰 香港节点2(免费)倍率(0倍率不消耗流量)=trojan,hkmf2.speedcncnforward3.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=hkmf2.speedcncnforward3.tk,tfo=true,udp-relay=true
-🇭🇰 香港节点1(免费)倍率(0倍率不消耗流量)=trojan,hkmf1.speedcncnforward2.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=hkmf1.speedcncnforward2.tk,tfo=true,udp-relay=true
-🇰🇷 韩国(解锁Netflix)(免费)倍率(0倍率不消耗流量)=trojan,hgmf.speedcncnforward2.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=hgmf.speedcncnforward2.tk,tfo=true,udp-relay=true
-🇸🇬 新加坡(解锁Netflix)(免费)倍率(0倍率不消耗流量)=trojan,xjpmf.speedcncnforward2.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=true,sni=xjpmf.speedcncnforward2.tk,tfo=true,udp-relay=true
 🇭🇰 香港IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45239,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
 🇭🇰 香港IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45239,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
 🇭🇰 香港IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45240,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
@@ -27,3 +22,13 @@
 🇨🇳 台湾家庭宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45394,username=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
 🇨🇳 台湾家庭宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45392,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
 🇨🇳 台湾家庭宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45392,encrypt-method=chacha20-ietf-poly1305,password=7d9726a2-b4f6-484d-8bd8-bf72257b9230,tfo=true,udp-relay=true
+🇭🇰 香港节点2(免费)倍率(0倍率不消耗流量)=trojan,hkmf2.speedcncnforward3.tk,10004,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=hkmf2.speedcncnforward3.tk,tfo=true,udp-relay=true
+🇭🇰 香港节点1(免费)倍率(0倍率不消耗流量)=trojan,hkmf1.speedcncnforward2.tk,10004,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=hkmf1.speedcncnforward2.tk,tfo=true,udp-relay=true
+🇰🇷 韩国(解锁Netflix)(免费)倍率(0倍率不消耗流量)=trojan,hgmf.speedcncnforward2.tk,10002,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=hgmf.speedcncnforward2.tk,tfo=true,udp-relay=true
+🇸🇬 新加坡(解锁Netflix)(免费)倍率(0倍率不消耗流量)=trojan,xjpmf.speedcncnforward2.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=xjpmf.speedcncnforward2.tk,tfo=true,udp-relay=true
+🇯🇵 日本节点(免费)倍率(0倍率不消耗流量)=trojan,rbmf.speedcncnforward3.tk,10004,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=rbmf.speedcncnforward3.tk,tfo=true,udp-relay=true
+🇭🇰 [Telelink]｜Hong Kong=trojan,40.83.89.223,443,password=8ddffc3a-bdb0-41eb-984e-c43a5132a6fa,skip-cert-verify=false,sni=certificate.telelink.cc,tfo=true,udp-relay=true
+🇯🇵 [Telelink]｜Japan=trojan,20.222.84.185,443,password=8ddffc3a-bdb0-41eb-984e-c43a5132a6fa,skip-cert-verify=false,sni=certificate.telelink.cc,tfo=true,udp-relay=true
+🇸🇬 [Telelink]｜Singapore=trojan,20.212.197.126,443,password=8ddffc3a-bdb0-41eb-984e-c43a5132a6fa,skip-cert-verify=false,sni=certificate.telelink.cc,tfo=true,udp-relay=true
+🇯🇵 [Temp] Port 80｜日本 Azure=vmess,20.210.254.74,80,username=8ddffc3a-bdb0-41eb-984e-c43a5132a6fa,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/index.php,ws-headers=Host:"telelink.cc"
+🇰🇷 [Temp] Port 80｜韩国 Azure=vmess,20.194.18.187,80,username=8ddffc3a-bdb0-41eb-984e-c43a5132a6fa,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/index.php,ws-headers=Host:"telelink.cc"
