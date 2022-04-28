@@ -1,29 +1,11 @@
-🇯🇵 日本节点( )倍率(0倍率不消耗流量)=trojan,rbmf.speedcncnforward3.tk,10004,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=rbmf.speedcncnforward3.tk,tfo=true,udp-relay=true
-🇭🇰 香港节点1( )倍率(0倍率不消耗流量)=trojan,hkmf1.speedcncnforward2.tk,10004,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=hkmf1.speedcncnforward2.tk,tfo=true,udp-relay=true
-🇰🇷 韩国(解锁Netflix)( )倍率(0倍率不消耗流量)=trojan,hgmf.speedcncnforward2.tk,10004,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=hgmf.speedcncnforward2.tk,tfo=true,udp-relay=true
-🇸🇬 新加坡(解锁Netflix)( )倍率(0倍率不消耗流量)=trojan,xjpmf.speedcncnforward2.tk,10001,password=ee658289-76df-4e4c-b40f-8b356463044e,skip-cert-verify=false,sni=xjpmf.speedcncnforward2.tk,tfo=true,udp-relay=true
-🇭🇰 香港IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45239,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
-🇭🇰 香港IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45239,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
-🇭🇰 香港IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45240,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇭🇰 香港IDC宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45240,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇭🇰 香港家庭宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45250,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
-🇭🇰 香港家庭宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45250,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
-🇭🇰 香港家庭宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45251,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇭🇰 香港家庭宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45251,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇸🇬 新加坡IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45149,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
-🇸🇬 新加坡IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45149,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
-🇸🇬 新加坡IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45144,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇸🇬 新加坡IDC宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45144,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇯🇵 日本IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45184,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
-🇯🇵 日本IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45184,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
-🇯🇵 日本IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45183,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇯🇵 日本IDC宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45183,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇺🇸 美国IDC宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45194,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
-🇺🇸 美国IDC宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45194,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
-🇺🇸 美国IDC宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45190,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇺🇸 美国IDC宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45190,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇨🇳 台湾家庭宽频|NF解锁|V2|A01=vmess,gz.bgp.rx.naiun.pw,45394,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"gz.bgp.rx.naiun.pw"
-🇨🇳 台湾家庭宽频|NF解锁|V2|B01=vmess,hz.bgp.rx.naiun.pw,45394,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=false,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"hz.bgp.rx.naiun.pw"
-🇨🇳 台湾家庭宽频|NF解锁|SS|A01=ss,gz.bgp.rx.naiun.pw, 45392,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇨🇳 台湾家庭宽频|NF解锁|SS|B01=ss,hz.bgp.rx.naiun.pw, 45392,encrypt-method=chacha20-ietf-poly1305,password=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tfo=true,udp-relay=true
-🇺🇸 免费|美国1=vmess,node.relay.az.naiun.pw,25082,username=3ad59de0-94fd-4900-8ec5-bd422fa051fe,tls=true,tfo=true,vmess-aead=true,ws=true,ws-path=/,ws-headers=Host:"node.free.usa.naiun.pw",skip-cert-verify=false,sni=node.free.usa.naiun.pw
+🇭🇰 HongKong 01=trojan,20.239.249.17,20035,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=hk1.daydaygeek.icu,tfo=false,udp-relay=false
+🇭🇰 HongKong 02=trojan,20.239.250.100,20035,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=hk2.daydaygeek.icu,tfo=false,udp-relay=false
+🇭🇰 HongKong 03=trojan,20.205.42.44,20035,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=hk3.daydaygeek.icu,tfo=false,udp-relay=false
+🇯🇵 Japan 01=trojan,api-02.malibaba.xyz,15563,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=jp1.daydaygeek.icu,tfo=false,udp-relay=false
+🇯🇵 Japan 02=trojan,api-02.malibaba.xyz,15564,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=jp2.daydaygeek.icu,tfo=false,udp-relay=false
+🇯🇵 Japan 03=trojan,api-02.malibaba.xyz,15565,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=jp3.daydaygeek.icu,tfo=false,udp-relay=false
+🇸🇬 Singapore 01=trojan,api-01.malibaba.xyz,31769,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=sg1.daydaygeek.icu,tfo=false,udp-relay=false
+🇸🇬 Singapore 02=trojan,api-01.malibaba.xyz,38599,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=sg2.daydaygeek.icu,tfo=false,udp-relay=false
+🇸🇬 Singapore 03=trojan,api-gzct.malibaba.xyz,17099,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=sg3.daydaygeek.icu,tfo=false,udp-relay=false
+🇸🇬 Singapore 04=trojan,api-gzct.malibaba.xyz,18705,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=sg4.daydaygeek.icu,tfo=false,udp-relay=false
+🇸🇬 Singapore 05=trojan,api-gzct.malibaba.xyz,37071,password=6f01f942-aaae-30d7-8c2a-cacd2466f15c,skip-cert-verify=true,sni=sg5.daydaygeek.icu,tfo=false,udp-relay=false
